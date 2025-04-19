@@ -14,7 +14,7 @@ This repository contains a basic machine learning task created for ACM club memb
 
 ## Objective
 
-The goal of this task is to give you a hands-on introduction to the typical ML workflow:
+The goal of this task is to give a hands-on introduction to the typical ML workflow:
 
 1. Understand the dataset
 2. Clean and preprocess the data
@@ -30,6 +30,3 @@ The goal of this task is to give you a hands-on introduction to the typical ML w
 
 Note: This task is designed to run in a local notebook environment. No setup instructions are provided as this is a club-level educational task.
 
-## Purpose
-
-This task is not meant for deployment or production use. It serves purely as a learning exercise for those new to machine learning.
